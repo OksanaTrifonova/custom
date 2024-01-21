@@ -1,0 +1,4 @@
+
+
+beanName1=com.example.BeanClass1
+beanName2=com.example.BeanClass2
